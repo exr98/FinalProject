@@ -1,0 +1,154 @@
+body{
+    color:#555555;
+    background-color: white;
+    font-family: sans-serif;
+    font-weight: normal;
+    line-height: 1.6em;
+    font-size: 18px;
+}
+
+#main-header{
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    background-size: cover;
+    background-position: center;
+    background-image: url('https://twoloves.files.wordpress.com/2013/03/pswkor_5955.jpg');
+    padding: 150px 150px 150px 100px;
+    min-height:150px;
+    border: none;
+    margin: none;
+    text-align: left;
+    color:white;
+    
+}
+
+h1, h4{
+    font-weight: bold;
+}
+
+h1 {
+    font-size:42px;
+}
+
+.container{
+    width: 40%;
+    margin: auto;
+} 
+
+.container2{
+    width: 92%;
+    margin: auto;
+} 
+
+.clr{
+    clear:both;
+}
+
+
+.box-1{
+    text-align: center;
+    background-color:white;
+    margin: 5px;
+    padding: 20px;
+}
+
+.subscribe{
+    font-style: italic;
+}
+
+.box-2{
+    margin: 5px;
+    padding: 65px;
+    background-color: rgb(214, 214, 214);
+    font-family: sans-serif;
+    font-size: 18px;
+    
+}
+
+.box-3{
+    text-align: center;
+    background-color: white;
+    margin: 5px;
+    padding: 20px;
+}
+
+.box-3 p{
+    font-weight: bold;
+}
+
+.box-3 ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #555;
+}
+
+a:hover{
+    color: rgb(219, 64, 90);
+}
+
+.my-form input[type="submit"]{
+    background-color: rgb(219, 64, 90);
+    color: white;
+    padding: 6px 7px;
+    border: none;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.my-form input[type="submit"]:hover{
+    color: rgb(219, 64, 90);
+    background-color: white ;
+}
+
+.block{
+    float:left;
+    width:33.3%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+
+.main-footer{
+    text-align: center;
+    font-size: 14px;
+}
+
+#navbar{
+    background-color: white;
+    padding: 7px;
+    border: #555;
+    margin: none;
+    
+}
+
+#navbar ul{
+    padding:0;
+    list-style: none;
+    
+}
+
+#navbar li{
+    display:inline;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+#navbar a{
+    text-decoration: none;
+    padding-right: 25px;
+
+}
+
+.main-footer {
+    background-color: rgb(189, 187, 187);
+    padding: 10px;
+    
+}
+
+.box-2 h7{
+    font-weight: bold;
+}
